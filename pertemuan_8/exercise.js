@@ -14,4 +14,4 @@ let account = {
 };
 account.addExpenses('Beli Minuman', 20000);
 account.addExpenses('Beli Makanan', 50000);
-console.log("Total pengeluaran " + name + "adalah Rp." + account.getAccountSummary());
+console.log("Total pengeluaran " + account.Name + "adalah Rp." + account.getAccountSummary());
