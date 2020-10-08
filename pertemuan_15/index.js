@@ -1,4 +1,4 @@
-//Destrukturisasi
+//Destrukturisasi (Penjelasan Sir)
 //----------------------------------
 
 // Memecah item atau propery pada array atau object ke dalam variable yang berbeda
