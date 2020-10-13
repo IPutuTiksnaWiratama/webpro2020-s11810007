@@ -1,7 +1,7 @@
 //var,let,const
 
-// let nama = "Glain"
-// let nama = "Damping"
+// let nama = "Putu"
+// let nama = "Wiratama"
 
 // console.log(nama);
 
