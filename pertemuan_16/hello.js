@@ -1,8 +1,6 @@
 //export const number = [1,2,3,4,5];
 
-//export const world = () =>{
-//    console/log('Hello World');
-//}
+import { word } from './component/word.js';
 
 const hello = (user) => {
     console.log(`hello, ${user}`);

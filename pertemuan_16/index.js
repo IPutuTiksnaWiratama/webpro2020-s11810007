@@ -4,5 +4,5 @@
 //helper.world();
 //console.log(helper.numbers);
 
-import hello from './hello.js'
-hello('John Doe');
+import Func1 from './hello.js'
+Func1('John Doe');
