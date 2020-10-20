@@ -63,3 +63,5 @@ const getNameById = async () => {
 }
 
 getNameById().then(result => console.log(result));
+
+//END
