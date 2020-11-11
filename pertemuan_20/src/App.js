@@ -1,12 +1,12 @@
 import './App.css';
 import Card from './Components/card';
 import {person} from './Utils/person';
- 
+import Counter from "./Components/counter" 
 
 function App() {
   return (
     <>
-      {person.map((item) =>{
+      {/*person.map((item) =>{
         return(
           <Card
             name={item.name}
@@ -15,9 +15,10 @@ function App() {
             phone={item.phone}
           />
         );
-      })}
+      })*/}
+      <Counter title = "Counter Component"/>
     </>
   );
-};
+}
 
 export default App;
